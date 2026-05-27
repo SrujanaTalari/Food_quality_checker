@@ -1,5 +1,6 @@
 ﻿streamlit
 matplotlib
-pandas
-numpy
+tensorflow-cpu
 pillow
+numpy
+pandas
